@@ -11,6 +11,7 @@ body {
 }
 
 .draggable-elements {
+  padding-top: 5%;
   display: flex;
   justify-content: center;
   margin: 16px;
